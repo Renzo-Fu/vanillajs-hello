@@ -1,23 +1,28 @@
-# Hello World with Vanilla JS
-
-Start coding a JS/HTML/CSS website in 30 seconds by opening this template in [Codespaces](https://github.com/codespaces/new/?repo=4GeeksAcademy/vanillajs-hello) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
-
+# Random excuse
 ## Before you begin
 
 Install the packages by typing: `npm install`.
 
 
-### How do I run my website to see live changes?  
+### Running the Program
+To start the program, run the following command:
 
-
-Type on the command line `$ npm run start` and type localhost on the browser.
+ ```bash
+$ npm run start
+```
 
 ### Where do I write my code?  
 
-It depends on the language, but you have `./src/app.js`, `./src/style.css` and `./src/index.html` respectively, you can add new `.html` as you please, just make sure to import it on the `app.js`.
-
 > Note: remember that the JS workflow starts inside `window.onload`.
 
+## Project Structure
+The main files and directories in the project are structured as follows:
+
+src/: This directory contains the source code for the project.
+app.js: The JavaScript file that contains the main logic of the web application.
+style.css: The CSS file that contains the styles for the web application.
+index.html: The HTML file that serves as the entry point for the web application.
+Make sure to navigate to the appropriate directory and follow the instructions to install dependencies and run the project successfully.
 
 ## Troubleshooting
 
